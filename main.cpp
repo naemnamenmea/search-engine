@@ -21,14 +21,15 @@
 
 int main(const int argc, const char* argv[])
 {
-	SetConsoleCP(1251); // установка кодовой страницы win-cp 1251 в поток ввода
-	SetConsoleOutputCP(1251); // установка кодовой страницы win-cp 1251 в поток вывода
+	SetConsoleCP(1251); // setting the win-cp 1251 code page in the input stream
+	SetConsoleOutputCP(1251); // setting the win-cp 1251 code page to the output stream
 
 	SearchEngine se;
 	std::string input;
 
 	while (std::cout << "> " && std::getline(std::cin, input)) {
 		vString args = split(input);
+		bool debug = se.isDebug();
 
 		try {
 			if (args.size() == 0)
@@ -40,7 +41,7 @@ int main(const int argc, const char* argv[])
 			}
 			else if (args[0] == SE_HELP)
 			{
-				SearchEngine::showHelpMsg();
+				se.showHelpMsg();
 			}
 			else if (args[0] == SE_WIPE1 || args[0] == SE_WIPE2)
 			{
@@ -49,13 +50,13 @@ int main(const int argc, const char* argv[])
 			else if (args[0] == SE_REM_SERVICE_FILES) {
 				se.clearServiceData();
 			}
-			else if (args[0] == SE_SERVICE_PATH) {
+			else if (debug && args[0] == SE_SERVICE_PATH) {
 				std::cout << se.servicePath() << std::endl;
 			}
-			else if (args[0] == SE_INDEX_PATH) {
+			else if (debug && args[0] == SE_INDEX_PATH) {
 				std::cout << se.getIndexPath() << std::endl;
 			}
-			else if (args[0] == SE_CACHE_PATH) {
+			else if (debug && args[0] == SE_CACHE_PATH) {
 				std::cout << se.getCachePath() << std::endl;
 			}
 			else if (args[0] == SE_LOAD)
@@ -88,7 +89,7 @@ int main(const int argc, const char* argv[])
 			}
 			else if (args[0] == SE_DEBUG) {
 				if (args.size() == 1) {
-					std::cout << "DEBUG = " << se.isDebug() << std::endl;
+					std::cout << "DEBUG = " << debug << std::endl;
 				}
 				else if (args.size() == 2 && (args[1] == "0" || args[1] == "1")) {
 					se.setDebugFlag(std::stoi(args[1]));
@@ -125,13 +126,13 @@ int main(const int argc, const char* argv[])
 					se.printSERP(res);
 				}
 			}
-			else if (args[0] == SE_PRINT_INDEX) {
+			else if (debug && args[0] == SE_PRINT_INDEX) {
 				se.printIndex();
 			}
-			else if (args[0] == SE_PRINT_FILES) {
+			else if (debug && args[0] == SE_PRINT_FILES) {
 				se.printFiles();
 			}
-			else if (args[0] == SE_PRINT_WORDS) {
+			else if (debug && args[0] == SE_PRINT_WORDS) {
 				se.printWords();
 			}
 			else if (args[0] == SE_CLS1 || args[0] == SE_CLS2)

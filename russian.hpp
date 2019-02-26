@@ -1,6 +1,6 @@
 /*
-œÓÚËÓ‚‡ÌÌ‡ˇ ‚ÂÒËˇ ‡Î„ÓËÚÏ‡ œÓÚÂ‡ Ì‡ C++
-¿‚ÚÓ --> http://manunich.blogspot.com/2016/01/c-cpp.html
+–ü–æ—Ä—Ç–∏—Ä–æ–≤–∞–Ω–Ω–∞—è –≤–µ—Ä—Å–∏—è –∞–ª–≥–æ—Ä–∏—Ç–º–∞ –ü–æ—Ä—Ç–µ—Ä–∞ –Ω–∞ C++
+–ê–≤—Ç–æ—Ä --> http://manunich.blogspot.com/2016/01/c-cpp.html
 */
 
 #pragma once
@@ -50,30 +50,30 @@ namespace Russian {
 			std::string stem(std::string s);
 		};
 
-		const std::string Porter::const1 = "¿≈»Œ”€›»ﬁﬂ";
+		const std::string Porter::const1 = "–ê–ï–ò–û–£–´–≠–ò–Æ–Ø";
 		const std::string Porter::EMPTY = "";
 		const std::string Porter::S1 = "$1";
 		const std::string Porter::S13 = "$1$3";
-		const std::string Porter::SN = "Õ";
-		const std::regex Porter::PERFECTIVEGROUND = std::regex("(»¬|»¬ÿ»|»¬ÿ»—‹|€¬|€¬ÿ»|€¬ÿ»—‹|¬ÿ»|¬ÿ»—‹)$");
-		const std::regex Porter::REFLEXIVE = std::regex("(—ﬂ|—‹)$");
-		const std::regex Porter::ADJECTIVE = std::regex("(≈≈|»≈|€≈|Œ≈|»Ã»|€Ã»|≈…|»…|€…|Œ…|≈Ã|»Ã|€Ã|ŒÃ|≈√Œ|Œ√Œ|≈Ã”|ŒÃ”|»’|€’|”ﬁ|ﬁﬁ|¿ﬂ|ﬂﬂ|Œﬁ|≈ﬁ)$");
-		const std::regex Porter::PARTICIPLE = std::regex("(.*)(»¬ÿ|€¬ÿ|”ﬁŸ)$|([¿ﬂ])(≈Ã|ÕÕ|¬ÿ|ﬁŸ|Ÿ)$");
-		const std::regex Porter::VERB = std::regex("(.*)(»À¿|€À¿|≈Õ¿|≈…“≈|”…“≈|»“≈|»À»|€À»|≈…|”…|»À|€À|»Ã|€Ã|≈Õ|»ÀŒ|€ÀŒ|≈ÕŒ|ﬂ“|”≈“|”ﬁ“|»“|€“|≈Õ€|»“‹|€“‹|»ÿ‹|”ﬁ|ﬁ)$|([¿ﬂ])(À¿|Õ¿|≈“≈|…“≈|À»|…|À|≈Ã|Õ|ÀŒ|ÕŒ|≈“|ﬁ“|Õ€|“‹|≈ÿ‹|ÕÕŒ)$");
-		const std::regex Porter::NOUN = std::regex("(¿|≈¬|Œ¬|»≈|‹≈|≈|»ﬂÃ»|ﬂÃ»|¿Ã»|≈»|»»|»|»≈…|≈…|Œ…|»…|…|»ﬂÃ|ﬂÃ|»≈Ã|≈Ã|¿Ã|ŒÃ|Œ|”|¿’|»ﬂ’|ﬂ’|€|‹|»ﬁ|‹ﬁ|ﬁ|»ﬂ|‹ﬂ|ﬂ)$");
-		const std::regex Porter::I = std::regex("»$");
-		const std::regex Porter::P = std::regex("‹$");
-		const std::regex Porter::NN = std::regex("ÕÕ$");
-		const std::regex Porter::DERIVATIONAL = std::regex(".*[^¿≈»Œ”€›ﬁﬂ]+[¿≈»Œ”€›ﬁﬂ].*Œ—“‹?$");
-		const std::regex Porter::DER = std::regex("Œ—“‹?$");
-		const std::regex Porter::SUPERLATIVE = std::regex("(≈…ÿ≈|≈…ÿ)$");
+		const std::string Porter::SN = "–ù";
+		const std::regex Porter::PERFECTIVEGROUND = std::regex("(–ò–í|–ò–í–®–ò|–ò–í–®–ò–°–¨|–´–í|–´–í–®–ò|–´–í–®–ò–°–¨|–í–®–ò|–í–®–ò–°–¨)$");
+		const std::regex Porter::REFLEXIVE = std::regex("(–°–Ø|–°–¨)$");
+		const std::regex Porter::ADJECTIVE = std::regex("(–ï–ï|–ò–ï|–´–ï|–û–ï|–ò–ú–ò|–´–ú–ò|–ï–ô|–ò–ô|–´–ô|–û–ô|–ï–ú|–ò–ú|–´–ú|–û–ú|–ï–ì–û|–û–ì–û|–ï–ú–£|–û–ú–£|–ò–•|–´–•|–£–Æ|–Æ–Æ|–ê–Ø|–Ø–Ø|–û–Æ|–ï–Æ)$");
+		const std::regex Porter::PARTICIPLE = std::regex("(.*)(–ò–í–®|–´–í–®|–£–Æ–©)$|([–ê–Ø])(–ï–ú|–ù–ù|–í–®|–Æ–©|–©)$");
+		const std::regex Porter::VERB = std::regex("(.*)(–ò–õ–ê|–´–õ–ê|–ï–ù–ê|–ï–ô–¢–ï|–£–ô–¢–ï|–ò–¢–ï|–ò–õ–ò|–´–õ–ò|–ï–ô|–£–ô|–ò–õ|–´–õ|–ò–ú|–´–ú|–ï–ù|–ò–õ–û|–´–õ–û|–ï–ù–û|–Ø–¢|–£–ï–¢|–£–Æ–¢|–ò–¢|–´–¢|–ï–ù–´|–ò–¢–¨|–´–¢–¨|–ò–®–¨|–£–Æ|–Æ)$|([–ê–Ø])(–õ–ê|–ù–ê|–ï–¢–ï|–ô–¢–ï|–õ–ò|–ô|–õ|–ï–ú|–ù|–õ–û|–ù–û|–ï–¢|–Æ–¢|–ù–´|–¢–¨|–ï–®–¨|–ù–ù–û)$");
+		const std::regex Porter::NOUN = std::regex("(–ê|–ï–í|–û–í|–ò–ï|–¨–ï|–ï|–ò–Ø–ú–ò|–Ø–ú–ò|–ê–ú–ò|–ï–ò|–ò–ò|–ò|–ò–ï–ô|–ï–ô|–û–ô|–ò–ô|–ô|–ò–Ø–ú|–Ø–ú|–ò–ï–ú|–ï–ú|–ê–ú|–û–ú|–û|–£|–ê–•|–ò–Ø–•|–Ø–•|–´|–¨|–ò–Æ|–¨–Æ|–Æ|–ò–Ø|–¨–Ø|–Ø)$");
+		const std::regex Porter::I = std::regex("–ò$");
+		const std::regex Porter::P = std::regex("–¨$");
+		const std::regex Porter::NN = std::regex("–ù–ù$");
+		const std::regex Porter::DERIVATIONAL = std::regex(".*[^–ê–ï–ò–û–£–´–≠–Æ–Ø]+[–ê–ï–ò–û–£–´–≠–Æ–Ø].*–û–°–¢–¨?$");
+		const std::regex Porter::DER = std::regex("–û–°–¢–¨?$");
+		const std::regex Porter::SUPERLATIVE = std::regex("(–ï–ô–®–ï|–ï–ô–®)$");
 
 		Porter::Porter() {
 			setlocale(0, "");
 		}
 		std::string Porter::stem(std::string s) {
 			transform(s.begin(), s.end(), s.begin(), ::toupper);
-			replace(s.begin(), s.end(), '®', '≈');
+			replace(s.begin(), s.end(), '–Å', '–ï');
 			int k = 0;
 			size_t pos = s.find_first_of(const1, 0);
 			if (pos != std::string::npos) {

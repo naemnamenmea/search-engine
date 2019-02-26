@@ -154,7 +154,7 @@ private:
 		ifs.close();
 	}
 public:
-	static void showHelpMsg();
+	void showHelpMsg();
 
 	SearchEngine(const fs::path& path = SE_SERVICE_ROOT_PATH)
 		: maxSERP(5), maxDocsPerWord(5)
@@ -497,22 +497,26 @@ void SearchEngine::showHelpMsg()
 		SE_REM " [-r] <dir1> <dir2> ... <dirN>\r\n"
 		SE_ADD " [-r] <dir1> <dir2> ... <dirN>\r\n"
 		SE_SEARCH " <w1> <w2> ... <wN>\r\n"
-		SE_EXIT1 " OR " SE_EXIT2 " -- close program\r\n"
-		SE_WIPE1 " OR " SE_WIPE2 " -- wipe loaded index\r\n"
-		SE_REM_SERVICE_FILES " -- delete service files\r\n"
-		SE_SERVICE_PATH " -- get service path\r\n"
-		SE_INDEX_PATH " -- get index path\r\n"
-		SE_CACHE_PATH " -- get cache path\r\n"
 		SE_LOAD " -- load index from cache\r\n"
 		SE_SAVE " -- save index\r\n"
 		SE_UPDATE " -- update loaded index\r\n"
+		SE_WIPE1 " OR " SE_WIPE2 " -- wipe loaded index\r\n"
+		SE_REM_SERVICE_FILES " -- delete service files\r\n"
+		"params[--show <max_docs>][--<param1> <value1> ... --<paramN> <valueN>]\r\n"
+		"\r\n"
 		SE_DEBUG " -- get debug flag\r\n"
-		SE_PRINT_INDEX " -- print index\r\n"
-		SE_PRINT_FILES " -- print files\r\n"
-		SE_PRINT_WORDS " -- print words\r\n"
 		SE_CLS1 " OR " SE_CLS2 " -- cls screen\r\n"
+		SE_EXIT1 " OR " SE_EXIT2 " -- close program";
 
-		"path <path_to_index>\r\n"
-		"params[--show <max_docs>][--<param1> <value1> ... --<paramN> <valueN>]";
+	if (this->isDebug()) {
+		help +=
+			"\r\n\r\n"
+			SE_INDEX_PATH " -- get index path\r\n"
+			SE_CACHE_PATH " -- get cache path\r\n"
+			SE_SERVICE_PATH " -- get service path\r\n"
+			SE_PRINT_INDEX " -- print index\r\n"
+			SE_PRINT_FILES " -- print files\r\n"
+			SE_PRINT_WORDS " -- print words";			
+	}
 	std::cout << help << std::endl;
 }
