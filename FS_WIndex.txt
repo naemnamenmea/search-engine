@@ -1,0 +1,750 @@
+wine,
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+at
+3
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\16.txt
+during
+2
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+these
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+benumbed,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+hire,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+well
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+tribulations,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+in
+5
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+3
+Test_data\doc_quick_search\docs 1251\15.txt
+la
+4
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+conversation,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+anthony
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+combatants,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+accompanied
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+by
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+which
+2
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+putting
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+de
+2
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+2
+Test_data\doc_quick_search\docs 1251\14.txt
+of
+12
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\14.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+2
+Test_data\doc_quick_search\docs 1251\16.txt
+3
+Test_data\doc_quick_search\docs 1251\14.txt
+3
+Test_data\doc_quick_search\docs 1251\15.txt
+3
+Test_data\doc_quick_search\docs 1251\16.txt
+4
+Test_data\doc_quick_search\docs 1251\14.txt
+4
+Test_data\doc_quick_search\docs 1251\15.txt
+5
+Test_data\doc_quick_search\docs 1251\15.txt
+chabannes,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+withal
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+the
+12
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\14.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+3
+Test_data\doc_quick_search\docs 1251\14.txt
+3
+Test_data\doc_quick_search\docs 1251\15.txt
+4
+Test_data\doc_quick_search\docs 1251\14.txt
+4
+Test_data\doc_quick_search\docs 1251\15.txt
+5
+Test_data\doc_quick_search\docs 1251\14.txt
+5
+Test_data\doc_quick_search\docs 1251\15.txt
+6
+Test_data\doc_quick_search\docs 1251\14.txt
+bourg
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+tower,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+value
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+vignolles
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+month,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+brother,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+his
+8
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\14.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+2
+Test_data\doc_quick_search\docs 1251\16.txt
+3
+Test_data\doc_quick_search\docs 1251\15.txt
+3
+Test_data\doc_quick_search\docs 1251\16.txt
+and
+11
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\14.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+2
+Test_data\doc_quick_search\docs 1251\16.txt
+3
+Test_data\doc_quick_search\docs 1251\15.txt
+4
+Test_data\doc_quick_search\docs 1251\15.txt
+5
+Test_data\doc_quick_search\docs 1251\15.txt
+6
+Test_data\doc_quick_search\docs 1251\15.txt
+7
+Test_data\doc_quick_search\docs 1251\15.txt
+and,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+about
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+with
+4
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+3
+Test_data\doc_quick_search\docs 1251\15.txt
+two
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+without
+2
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+them
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+hundred
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+castle
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+passed
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+castle,
+2
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+beauvoisis,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+one
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+attendants,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+day
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+d'auffemont
+2
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+near
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+way
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+to
+8
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\14.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+2
+Test_data\doc_quick_search\docs 1251\16.txt
+3
+Test_data\doc_quick_search\docs 1251\14.txt
+3
+Test_data\doc_quick_search\docs 1251\15.txt
+clermont
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+no
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+lord
+2
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+was
+5
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\14.txt
+2
+Test_data\doc_quick_search\docs 1251\16.txt
+governor.
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+postern
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+wrote
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+he
+5
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+2
+Test_data\doc_quick_search\docs 1251\16.txt
+alarmed
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+came
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+their
+2
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+appearance;
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+as
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+were
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+that
+2
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+a
+3
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+liberty,
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+forced
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+mark
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+good
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+will,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+king
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+ordered
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+wine
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+be
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+drawn,
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+obtained
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+carried
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+great
+2
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+for
+4
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\16.txt
+drink.
+1
+1
+Test_data\doc_quick_search\docs 1251\14.txt
+also
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+out
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+only
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+three
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+or
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+four
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+converse
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+them,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+showed
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+courtesy
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+hire
+3
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+companions,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+not
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+having
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+smallest
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+distrust
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+treacherous
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+intentions,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+they
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+very
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+soon
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+made
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+apparent;
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+laid
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+hands
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+on
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+him,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+him
+4
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+2
+Test_data\doc_quick_search\docs 1251\15.txt
+3
+Test_data\doc_quick_search\docs 1251\15.txt
+surrender
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+irons
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+confinement.
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+covered
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+this
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+state,
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+kept
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+upwards
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+insomuch
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+limbs
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+greatly
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+bruised
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+lice
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+all
+2
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+sorts
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+vermin.
+1
+1
+Test_data\doc_quick_search\docs 1251\15.txt
+length,
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+paid
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+ransom
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+fourteen
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+thousand
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+saluts
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+d'or,
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+horse
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+twenty
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+tons
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+notwithstanding
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+charles
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+several
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+times
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+set
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+liberty
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+ransom,
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+satisfied
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+services,--but
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+it
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt
+vain.
+1
+1
+Test_data\doc_quick_search\docs 1251\16.txt

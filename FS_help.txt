@@ -1,0 +1,3 @@
+build_index --path "Test_data\doc_quick_search\docs 1251\" --expand
+
+search --query fuck
